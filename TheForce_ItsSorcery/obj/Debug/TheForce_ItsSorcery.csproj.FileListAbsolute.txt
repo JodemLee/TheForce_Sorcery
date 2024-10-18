@@ -1,0 +1,11 @@
+C:\Users\Lee\Documents\RImworldLocal\HoldingCell\The Force- Psycast - Personal Use\Source\TheForce_Psycast\TheForce_ItsSorcery\bin\Debug\TheForce_ItsSorcery.dll
+C:\Users\Lee\Documents\RImworldLocal\HoldingCell\The Force- Psycast - Personal Use\Source\TheForce_Psycast\TheForce_ItsSorcery\bin\Debug\TheForce_ItsSorcery.pdb
+C:\Users\Lee\Documents\RImworldLocal\HoldingCell\The Force- Psycast - Personal Use\Source\TheForce_Psycast\TheForce_ItsSorcery\bin\Debug\VFECore.dll
+C:\Users\Lee\Documents\RImworldLocal\HoldingCell\The Force- Psycast - Personal Use\Source\TheForce_Psycast\TheForce_ItsSorcery\bin\Debug\PipeSystem.dll
+C:\Users\Lee\Documents\RImworldLocal\HoldingCell\The Force- Psycast - Personal Use\Source\TheForce_Psycast\TheForce_ItsSorcery\bin\Debug\KCSG.dll
+C:\Users\Lee\Documents\RImworldLocal\HoldingCell\The Force- Psycast - Personal Use\Source\TheForce_Psycast\TheForce_ItsSorcery\obj\Debug\TheForce_ItsSorcery.csproj.AssemblyReference.cache
+C:\Users\Lee\Documents\RImworldLocal\HoldingCell\The Force- Psycast - Personal Use\Source\TheForce_Psycast\TheForce_ItsSorcery\obj\Debug\TheForce_ItsSorcery.csproj.CoreCompileInputs.cache
+C:\Users\Lee\Documents\RImworldLocal\HoldingCell\The Force- Psycast - Personal Use\Source\TheForce_Psycast\TheForce_ItsSorcery\obj\Debug\TheForce_ItsSorcery.dll
+C:\Users\Lee\Documents\RImworldLocal\HoldingCell\The Force- Psycast - Personal Use\Source\TheForce_Psycast\TheForce_ItsSorcery\obj\Debug\TheForce_ItsSorcery.pdb
+L:\SteamLibrary\steamapps\common\RimWorld\Mods\guy762-Lee-PowerOfTheForce\1.5\Assemblies\TheForce_ItsSorcery.dll
+L:\SteamLibrary\steamapps\common\RimWorld\Mods\guy762-Lee-PowerOfTheForce\1.5\Assemblies\TheForce_ItsSorcery.pdb
